@@ -1,0 +1,28 @@
+p  {
+	color:purple;
+	font-family:Comic Sans MS, "Halvetica", "sans-seif", Georgia;
+	font-size: 14px;
+	line-height: 16px;
+	width:500px;
+	background-color: #E9967A;
+	padding:20px;
+	}
+	.paragraf_2 {color:black; background-color: rgba( 255, 255, 255, 0.5)}
+h1, h2, h3{
+		color:cornsilk;
+	font-family: Gotham, "Monaco", "Cursive", "sans-serif";
+	}
+span { color: rgb(219, 112, 147);}
+body 
+a:link { color: cornsilk;
+   background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+	}
+a:hover{
+	background-color: pink;
+}
+img { 
+     height: 400px;
+}
